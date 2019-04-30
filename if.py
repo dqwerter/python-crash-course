@@ -1,4 +1,4 @@
-cars = ['audi', 'bmw', 'benz', 'sibaru', 'toyota']
+cars = ['audi', 'bmw', 'benz', 'subaru', 'toyota']
 
 for car in cars:
     if car == 'bmw':
@@ -8,8 +8,8 @@ for car in cars:
 
 if 'audi' in cars:
     print('I have an Audi.')
-if 'porshe' not in cars:
-    print("I don't have a Porshe")
+if 'porsche' not in cars:
+    print("I don't have a Porsche")
 
 age = 12
 

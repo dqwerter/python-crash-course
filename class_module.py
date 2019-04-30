@@ -3,11 +3,12 @@
 
 from class_ import Car
 
+
 class Battery():
     """A simple attempt to model a battery for an electric car."""
 
     def __init__(self, battery_size=60):
-        """Initialize the batteery's attributes."""
+        """Initialize the battery's attributes."""
         self.battery_size = battery_size
 
     def describe_battery(self):

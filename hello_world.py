@@ -5,5 +5,3 @@ print(message)
 
 message = "Hello!"
 print(message + "\n")
-
-import this

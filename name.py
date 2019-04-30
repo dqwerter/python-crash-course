@@ -19,6 +19,6 @@ quotation = '---> " <---'
 print(quotation)
 
 int_var = 23
-message = str(int_var) + " is an integer. " # do not redefine str, otherwise error will occur here
+message = str(int_var) + " is an integer. "     # do not redefine str, otherwise error will occur here
 print(message)
 
